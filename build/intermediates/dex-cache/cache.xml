@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="93f25b2e813ea003d7df8dbbcefe61f299409787">
+        <dex dex="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_07eecdc85c11560c7956407e62cc4b36df11ac99\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_9297c6efeb1d6a5049f473b3b6ed35175e8164a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="74b5ff2f0f7d644eeb5acbdbbfa2c053d508455e">
+        <dex dex="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_db2c028e88242e606db18cf0d34b6b05b5462f38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_f426332ccf85751e5d0bb20612d1509ff5eab924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha6\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="683e0c40e56227acb71bcd29fee25fe417ae734e">
+        <dex dex="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha6_c912193caf7be1df0bc49e2d37f9d312e9e61b56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryce\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha6\constraint-layout-solver-1.0.0-alpha6.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="539cfaee6c35087cdebad7e3a3bc0f52d1261d93">
+        <dex dex="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha6_d8f1146b94b3336cd900d683b3eb7f6abdd54f14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_67099ae6c61167a523b9b97f16ac50d3a462f56b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_a241103d5498d53b57162083c1ba70c044a4ce86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_3da149159c21f04572d0f8c2eb97ef8e22a7d819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bryce\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="C:\Users\Bryce\AndroidStudioProjects\Kensistency\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_7dbc33db4b065f119cca5239c87ea9136f6bc83c\classes.dex" />
+    </item>
+
+</items>

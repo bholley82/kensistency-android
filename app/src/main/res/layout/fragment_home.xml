@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100">
+
+    <!-- "Official News" section. Side scrolling flipper -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="30"
+        android:background="@color/colorPrimary">
+
+        <ViewFlipper
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:id="@+id/layout_officialNews">
+
+                <!--official news/ads get populated in here-->
+
+            </LinearLayout>
+
+        </ViewFlipper>
+
+    </LinearLayout>
+
+    <!-- "Friend News" section. Vertical scroll -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0px"
+        android:layout_weight="70"
+        android:background="@color/colorPrimaryDark">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!-- if signed in -->
+            <!-- friend updates are populated here -->
+            <!-- else -->
+            <!-- "Sign in to keep up to date with your friends" -->
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</LinearLayout>
